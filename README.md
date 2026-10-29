@@ -18,9 +18,6 @@
 
 ### GitHub Stats & Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skullllllly&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skullllllly&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+* **Primary Stack:** Python, FastAPI, PostgreSQL, Docker
+* **Architecture:** Asynchronous REST APIs & MLOps Pipelines
 
